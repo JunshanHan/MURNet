@@ -4,8 +4,8 @@ This repository is the official implementation of **MURNet**, which is model pro
 
 MURNet is a valuable method for identifying and evaluating PFAS in the environment that can bind to plasma proteins.
 
-![](/imgs/2025-12-03/mHe6wa0PXSde6qpn.png)
- ****An illustration of MURNet and its workflow.****
+![An illustration of MURNet and its workflow.](/imgs/2025-12-03/mHe6wa0PXSde6qpn.png)
+ 
  ## # Requirements
  To run our code, please install dependency packages.
 ~~~
