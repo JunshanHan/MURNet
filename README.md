@@ -1,4 +1,5 @@
 # Development, Evaluation and Application of a Multi-Representation Fusion Model for Accurate Prediction of Per- and Polyfluoralkyl Substance(PFAS) Binding to Plasma Proteins
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue)](https://github.com/JunshanHan/MURNet/master/LICENCE.txt)
 [![Static Badge](https://img.shields.io/badge/PyTorch-red)](https://pytorch.org/)
 
 This repository is the official implementation of **MURNet**, which is model proposed in a paper: **Development, Evaluation and Application of a Multi-Representation Fusion Model for Accurate Prediction of Per- and Polyfluoralkyl Substance(PFAS) Binding to Plasma Proteins**.
