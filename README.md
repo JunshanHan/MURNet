@@ -1,5 +1,6 @@
 # Development, Evaluation and Application of a Multi-Representation Fusion Model for Accurate Prediction of Per- and Polyfluoralkyl Substance(PFAS) Binding to Plasma Proteins
 [![Static Badge](https://img.shields.io/badge/PyTorch-red)](https://pytorch.org/)
+
 This repository is the official implementation of **MURNet**, which is model proposed in a paper: **Development, Evaluation and Application of a Multi-Representation Fusion Model for Accurate Prediction of Per- and Polyfluoralkyl Substance(PFAS) Binding to Plasma Proteins**.
 
 MURNet is a valuable method for identifying and evaluating PFAS in the environment that can bind to plasma proteins.
